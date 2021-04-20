@@ -13,3 +13,6 @@ To further develop the PlanMyTrip application and its capabilities, I integrated
 In retrospect, this exercise was a very intriguing use of API’s to learn and understand how Python and Jupyter notebook can be coupled with open source API’s for the purposes of creating unique applications. Creating random coordinates and analyzing weather data with the WeatherPy & CityPy Python Modules, and OpenWeatherMap API tools opens to the doors to hundreds of applicable uses, and was a great learning experience for API integration in general. 
 
 We are happy that Jack and his beta testers love the PlanMyTrip app, and we look forward to developing similar applications like this in the future.
+
+Below is a table displaying all of the features we have created to supply our app users with the best Weather & Direction Data.
+![alt text](https://github.com/stackanna/World_Weather_Analysis/blob/66f916e57bb5259ffdf9c7ac387c41de00d8ed8b/Vacation_Search/WeatherPy_vacation_map.png)
